@@ -1,7 +1,10 @@
 # SynFundus-1M
+
+[![Data License](https://img.shields.io/badge/Data_License-CC_BY_NC_SA_4.0-red)](./LICENSE)
+
 SynFundus-1M is a synthetic fundus image dataset consisting of millions of images and extensive annotations that can help improve the performance of diagnostic models.
 
-[![Data License](https://img.shields.io/badge/Data_License-CC_BY_NC_SA_4.0-red)](./LICENSE) Usage and License Notices: The data is intended and licensed for research use only.
+Usage and License Notices: The data is intended and licensed for research use only.
 
 # Demo visualize
 ![SynFundus-1M Demo](./assets/demo.png)
