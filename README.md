@@ -6,6 +6,14 @@ SynFundus-1M is a synthetic fundus image dataset consisting of millions of image
 
 Usage and License Notices: The data is intended and licensed for research use only.
 
+# News
+
+We have uploaded the dataset to huggingface dataset. 
+
+Researchers who cannot access BaiduNetDisk please provide huggingface username (re-fill in the application form).
+
+Thanks for the help from [Alen Li](https://huggingface.co/chknug)!
+
 # Demo visualize
 ![SynFundus-1M Demo](./assets/demo.png)
 
